@@ -56,3 +56,9 @@ Common options:
  'profile.dot' used by default
 -e [file] gtboltzmann style structure file as input
 -sfold [file] Sfold style structure file as input
+
+
+changes made by Qiuyun Li:
+
+changed MakeFile to compile the program
+added function of predicting stability of features (https://v1.overleaf.com/18573929vmxwnjqyyjkd#/69985587)
